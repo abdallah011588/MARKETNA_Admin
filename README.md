@@ -2,15 +2,31 @@
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screen
+![27](https://github.com/abdallah011588/MARKETNA_Admin/assets/88535699/74e0f533-c02c-4f09-a2c0-e3318e2a3aee)
+![26](https://github.com/abdallah011588/MARKETNA_Admin/assets/88535699/0630a87a-323a-4fb3-801d-68a842370677)
+![25](https://github.com/abdallah011588/MARKETNA_Admin/assets/88535699/a4fc39e7-1218-45a2-bf71-5eeb572bdf47)
+![24](https://github.com/abdallah011588/MARKETNA_Admin/assets/88535699/80fb5e52-d9e3-44f9-9f01-4400333c1a29)
+![23](https://github.com/abdallah011588/MARKETNA_Admin/assets/88535699/c1496fd0-c7f7-4a3f-8a68-cfd2fadb8f1e)
+![22](https://github.com/abdallah011588/MARKETNA_Admin/assets/88535699/ef0f335d-7aa7-4e78-a676-676a10d7aaac)
+![21](https://github.com/abdallah011588/MARKETNA_Admin/assets/88535699/b77396bf-62a4-4586-9909-45a9c9969ddd)
+![20](https://github.com/abdallah011588/MARKETNA_Admin/assets/88535699/1b55bc7d-8ea3-4716-9fd4-45810588fc02)
+![19](https://github.com/abdallah011588/MARKETNA_Admin/assets/88535699/5d3ba639-1044-4c67-816f-7c8bf6adc3e8)
+![18](https://github.com/abdallah011588/MARKETNA_Admin/assets/88535699/a44ba5b8-8788-479e-b740-75f5cc6aa580)
+![17](https://github.com/abdallah011588/MARKETNA_Admin/assets/88535699/b80e64df-7438-44f2-9569-24826b47980b)
+![16](https://github.com/abdallah011588/MARKETNA_Admin/assets/88535699/34bf2218-14fe-41b2-ae16-5a8bef9d9a5f)
+![15](https://github.com/abdallah011588/MARKETNA_Admin/assets/88535699/a9f354a2-5527-4d9a-8292-c833b8cb39d9)
+![14](https://github.com/abdallah011588/MARKETNA_Admin/assets/88535699/25e16bfc-ba42-4613-a5f2-a539c8277e61)
+![13](https://github.com/abdallah011588/MARKETNA_Admin/assets/88535699/53828d82-2f0e-4307-9e72-1b9e738e91a0)
+![12](https://github.com/abdallah011588/MARKETNA_Admin/assets/88535699/57594c3b-fae1-4287-93a1-09f00a0a2aec)
+![11](https://github.com/abdallah011588/MARKETNA_Admin/assets/88535699/48cec22e-bb22-45e8-871f-070eea852802)
+![10](https://github.com/abdallah011588/MARKETNA_Admin/assets/88535699/7a1f054d-33a9-4911-8e58-f142dea3bfc9)
+![9](https://github.com/abdallah011588/MARKETNA_Admin/assets/88535699/edf4b328-31f2-45c0-83eb-3e88d62615ee)
+![8](https://github.com/abdallah011588/MARKETNA_Admin/assets/88535699/ddb6e602-d2be-4537-a632-db16a8cb1eb4)
+![7](https://github.com/abdallah011588/MARKETNA_Admin/assets/88535699/7b7927c0-1a56-4634-a058-73f677b5c959)
+![6](https://github.com/abdallah011588/MARKETNA_Admin/assets/88535699/37123d20-b0e9-4736-a27a-9b316d019ed6)
+![5](https://github.com/abdallah011588/MARKETNA_Admin/assets/88535699/91ab1c9f-1eb1-4314-ac1f-784369697d85)
+![4](https://github.com/abdallah011588/MARKETNA_Admin/assets/88535699/c60a3b71-6039-48c1-aa1c-3646eeff452c)
+![3](https://github.com/abdallah011588/MARKETNA_Admin/assets/88535699/7d38e09d-3a9d-4a3a-a961-9c46daa3ff39)
+![2](https://github.com/abdallah011588/MARKETNA_Admin/assets/88535699/ecc1a5b5-1e5e-4f36-b9ae-f52a267595b5)
+![1](https://github.com/abdallah011588/MARKETNA_Admin/assets/88535699/477d2cba-2706-407a-aee2-3f91e0b9ca23)
